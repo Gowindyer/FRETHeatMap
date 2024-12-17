@@ -1,0 +1,6 @@
+{
+"one circle": [0.1, 0.35],
+"two circle": [0.35, 0.65],
+"three circle": [0.65, 0.9],
+"four circle": [0.9]
+}
